@@ -6,7 +6,7 @@ import Project from './project';
 const Project1 = {
     title: 'Real Estate Website',
     tags: 'wordpress',
-    image: '../public/images/project1.png',
+    image: '/public/images/project1.png',
     description: 'An Openclassrooms course project',
     plink: 'http://dev-chaletsandcav.pantheonsite.io/'
 }
