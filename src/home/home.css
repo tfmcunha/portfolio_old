@@ -1,0 +1,17 @@
+.main-content {
+	margin-top:30px;
+	text-align:center;
+		
+}
+
+
+.main-content i {
+    font-family: 'Srisakdi', cursive;
+    font-size: 70px;
+    display: block;
+}
+
+#iCodi {
+    font-family: 'Black Ops One', cursive;
+    font-size:60px;
+}

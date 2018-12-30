@@ -1,0 +1,14 @@
+.boxCont {
+    
+    display: flex;
+    justify-content: center;
+    
+}
+.boxtext {
+    width: 500px;
+    background-color: rgba(0,0,0,0.5);
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    
+}

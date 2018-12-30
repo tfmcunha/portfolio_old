@@ -1,0 +1,15 @@
+.cont {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.contactIcon {
+    padding: 20px;
+    
+}
+
+.cont a {
+    color:white
+}

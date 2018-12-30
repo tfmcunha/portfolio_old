@@ -1,0 +1,32 @@
+.barMenu{
+    display: flex;
+    justify-content: center;
+    background-image: linear-gradient(to right,rgba(0,0,0,0),black, rgba(0,0,0,0));
+    margin-top: 20px;
+    
+    
+}
+
+
+
+
+ul {
+    padding:5px 0;
+}
+
+.barMenu a {
+    color: white;
+    text-decoration: none;
+    padding: 5px 10px;
+}
+
+.barMenu a:hover {
+    background-color: white !important;
+    color: black !important;
+    text-decoration: none;
+}
+
+.barMenu .selected {
+    background-color: white;
+    color: black !important;
+}

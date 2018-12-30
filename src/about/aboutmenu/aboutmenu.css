@@ -1,0 +1,29 @@
+.subMenu {
+	
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+.subMenu>ul {
+    background-color: rgba(0,0,0,0.5);
+    border-radius: 50px;
+    margin-top: 20px;
+    list-style-type: none;
+    width: 350px;
+    display: flex;
+    justify-content: center;
+    
+}
+.svg-inline--fa {
+    font-size: 50px;
+    
+}
+
+.subMenu a {
+    color: white;
+    text-decoration: none;
+    padding: 5px 10px;
+}
+
+
