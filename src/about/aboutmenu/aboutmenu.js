@@ -17,19 +17,19 @@ class AboutMenu extends React.Component {
                 <div  className="subMenu">
                     <ul>
                         <li>
-                            <NavLink to="/about/education">
+                            <NavLink to="/portfolio/about/education">
                                 <FontAwesomeIcon icon="graduation-cap" />
                                     <i>Education</i>
                             </NavLink>
                         </li>
                         <li>
-                            <NavLink to="/about/experience">
+                            <NavLink to="/portfolio/about/experience">
                                 <FontAwesomeIcon icon="briefcase" />
                                     <i>Experience</i>
                             </NavLink>
                         </li>
                         <li>
-                            <NavLink to="/about/portfolio">
+                            <NavLink to="/portfolio/about/portfolio">
                                 <FontAwesomeIcon icon="folder-open" />
                                     <i>Portfolio</i>
                             </NavLink>

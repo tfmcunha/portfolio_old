@@ -12,9 +12,9 @@ class Main extends React.Component {
             <Row>
                 <Col xs={12}>
                     <Switch>
-                        <Route exact path='/' component={Home}/>
-                        <Route path='/about' component={AboutMe}/>
-                        <Route path='/contact' component={Contact}/>
+                        <Route exact path='/portfolio' component={Home}/>
+                        <Route path='/portfolio/about' component={AboutMe}/>
+                        <Route path='/portfolio/contact' component={Contact}/>
                     </Switch>
                 </Col>
             </Row>  

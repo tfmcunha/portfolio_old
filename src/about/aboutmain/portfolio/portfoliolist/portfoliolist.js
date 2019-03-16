@@ -7,9 +7,9 @@ class PortfolioList extends React.Component {
     return (
         <div className="pflist">
             <ul>
-                <li><NavLink to='/about/portfolio/p1' activeClassName="selected">Real Estate Website</NavLink></li>
-                <li><NavLink to='/about/portfolio/p2' activeClassName="selected">Film Festival</NavLink></li>
-                <li><NavLink to='/about/portfolio/p3' activeClassName="selected">Portfolio</NavLink></li>
+                <li><NavLink to='/portfolio/about/portfolio/p1' activeClassName="selected">Real Estate Website</NavLink></li>
+                <li><NavLink to='/portfolio/about/portfolio/p2' activeClassName="selected">Film Festival</NavLink></li>
+                <li><NavLink to='/portfolio/about/portfolio/p3' activeClassName="selected">Portfolio</NavLink></li>
             </ul>
         </div>
     );

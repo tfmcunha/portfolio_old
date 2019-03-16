@@ -12,9 +12,9 @@ class AboutMain extends React.Component {
             <Row style={{marginTop: 20}}>
                 <Col xs={12}>
                     <Switch>
-                        <Route path='/about/education' component = {Education} />
-                        <Route path='/about/experience' component = {Experience} />
-                        <Route path='/about/portfolio' component = {Portfolio} />
+                        <Route path='/portfolio/about/education' component = {Education} />
+                        <Route path='/portfolio/about/experience' component = {Experience} />
+                        <Route path='/portfolio/about/portfolio' component = {Portfolio} />
                     </Switch>            
                 </Col>
             </Row>
