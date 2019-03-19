@@ -2,7 +2,7 @@
   "id": "1",
   "title": "Chalets&Caviar",
   "tags": "wordpress",
-  "image": "gh-pages/images/project1.png",
+  "image": "../images/project1.png",
   "description": "An Openclassrooms course project for a real estate company",
   "plink": "http://dev-chaletsandcav.pantheonsite.io/"
 },
@@ -10,7 +10,7 @@
   "id": "2",	
   "title": "Film Festival",
   "tags": "html, css, bootstrap",
-  "image": "gh-pages/images/project2.png",
+  "image": "../images/project2.png",
   "description": "OC course project",
   "plink": ""
 },
