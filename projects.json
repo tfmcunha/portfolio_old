@@ -1,9 +1,9 @@
 [{
   "id": "1",
-  "title": "Real Estate Website",
+  "title": "Chalets&Caviar",
   "tags": "wordpress",
-  "image": "/images/project1.png",
-  "description": "An Openclassrooms course project",
+  "image": "../images/project1.png",
+  "description": "An Openclassrooms course project for a real estate company",
   "plink": "http://dev-chaletsandcav.pantheonsite.io/"
 },
 {
@@ -11,7 +11,7 @@
   "title": "Film Festival",
   "tags": "html, css, bootstrap",
   "image": "/images/project2.png",
-  "description": "An Openclassrooms course project",
+  "description": "OC course project",
   "plink": ""
 },
 {
@@ -27,6 +27,6 @@
   "title": "Move&Groove",
   "tags": "ruby on rails",
   "image": "/images/project4.png",
-  "description": "An Openclassrooms course project",
-  "plink": ""
+  "description": "An Openclassrooms course project. A fitness activity tracking app deployed to Heroku",
+  "plink": "https://gentle-island-36113.herokuapp.com/"
 }]
