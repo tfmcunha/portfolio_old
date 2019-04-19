@@ -25,4 +25,11 @@
   "tags": "ruby on rails",  
   "description": "An Openclassrooms course project. A fitness activity tracking app deployed to Heroku",
   "plink": "https://move-n-groove.herokuapp.com/"
+},
+{
+  "id": "5",
+  "title": "Boulder Bike Tour",
+  "tags": "ruby on rails, react",  
+  "description": "An Openclassrooms course project featuring a bike race with react.js front-end and rails API back-end, both deployed to Heroku",
+  "plink": "https://oc-boulderbiketour.herokuapp.com/"
 }]
