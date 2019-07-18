@@ -32,11 +32,4 @@
   "tags": "ruby on rails, react",  
   "description": "An Openclassrooms course project featuring a bike race with react.js front-end and rails API back-end, both deployed to Heroku",
   "plink": "https://oc-boulderbiketour.herokuapp.com/"
-},
-{
-  "id": "6",
-  "title": "Friendly Neighbour",
-  "tags": "ruby on rails, react, action-cable",  
-  "description": "Last project from Openclassrooms course. An app that alows user to register and login, add help requests and find them on a map. Action-cable provides comunication between users",
-  "plink": "http://friendlyneighbour.herokuapp.com/"
 }]
